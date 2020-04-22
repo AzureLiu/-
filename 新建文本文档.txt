@@ -1,0 +1,9 @@
+print("{:.16f}".format(c))
+print("{}".format(d))
+print("{:.16f}".format(a))
+print("{}".format(f))
+print("{}".format(g))
+print("{:.1f}".format(h))
+
+
+print("{}\n{}\n{}\n{}\n{}\n{}\n{:.2f}".format(b,c,d,a,f,g,h))
